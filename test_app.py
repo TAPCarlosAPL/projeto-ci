@@ -22,5 +22,5 @@ def test_soma_negativos():
     assert soma (0, -3) == -3
 
 
-def test_erro_simulado():
-    assert soma(2, 3) == 10, "Erro simulado para testar o pipeline!!"
+#def test_erro_simulado():
+#    assert soma(2, 3) == 10, "Erro simulado para testar o pipeline!!"
